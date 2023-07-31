@@ -1,6 +1,6 @@
-=========================================
 Dataset characteristics
-=========================================	
+-----------------------
+
 day.csv have the following fields:
 	
 	- instant: record index
@@ -24,9 +24,9 @@ day.csv have the following fields:
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 	
-=========================================
 License
-=========================================
+---------------------------
+
 Use of this dataset in publications must be cited to the following publication:
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
@@ -44,8 +44,7 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
 Contact
-=========================================
-	
+--------------------
+
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
